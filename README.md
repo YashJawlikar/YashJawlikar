@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 
----
+ 
 
 ## 🔥 GitHub Streak
 
