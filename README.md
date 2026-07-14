@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Jawlikar
 
-<!--
-**YashJawlikar/YashJawlikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Machine Learning Engineer | MLOps Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Aspiring Data Scientist from India
+- 📊 Passionate about Machine Learning and Data Science
+- 🚀 Currently learning MLOps, Docker, AWS, and CI/CD
+- 💻 Love building End-to-End Machine Learning Projects
+- 🌱 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Python
+- SQL
+
+### Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- LightGBM
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Docker
+- MLflow
+- DVC
+- FastAPI
+- Streamlit
+- Power BI
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn URL here)
+- Email: (Add your Email)
