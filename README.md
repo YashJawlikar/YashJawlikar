@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashJawlikar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-# Hi 👋, I'm Yash Jawlikar
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Yash+Jawlikar;Data+Scientist;Machine+Learning+Engineer;MLOps+Enthusiast;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
