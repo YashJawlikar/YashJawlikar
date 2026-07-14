@@ -153,6 +153,4 @@ Interactive dashboards for business insights and KPI reporting.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
-- LinkedIn: (https://www.linkedin.com/in/yash-jawlikar/)
-- Email: (6yashjawlikar@gmail.com)
+ 
