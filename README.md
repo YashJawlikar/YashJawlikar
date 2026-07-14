@@ -40,7 +40,13 @@
   <img src="https://streak-stats.demolab.com?user=YashJawlikar&theme=tokyonight&hide_border=true" />
 </p>
 ---
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashJawlikar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
