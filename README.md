@@ -45,5 +45,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: (Add your LinkedIn URL here)
-- Email: (Add your Email)
+- LinkedIn: (https://www.linkedin.com/in/yash-jawlikar/)
+- Email: (6yashjawlikar@gmail.com)
