@@ -32,34 +32,31 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
+## 🛠️ Tech Stack
 
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- LightGBM
+<p align="center">
 
-### Databases
-- PostgreSQL
-- MySQL
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,docker,vscode,aws" />
 
-### Tools
-- Git
-- GitHub
-- Docker
-- MLflow
-- DVC
-- FastAPI
-- Streamlit
-- Power BI
+<br><br>
 
----
+<img src="https://skillicons.dev/icons?i=anaconda,linux" />
 
-## 📫 Connect with Me
+</p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-00A65A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
 - LinkedIn: (https://www.linkedin.com/in/yash-jawlikar/)
 - Email: (6yashjawlikar@gmail.com)
