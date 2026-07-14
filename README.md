@@ -87,5 +87,44 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </p>
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Online Shoppers Intent MLOps
+End-to-End MLOps project for predicting online shopper purchase intentions.
+
+**Tech Stack:** Python • Scikit-learn • MLflow • Docker • PostgreSQL • FastAPI • Render
+
+🔗 Repository: https://github.com/YashJawlikar/shoppers-intent-mlops
+
+---
+
+## ⚙️ ETL Pipeline
+Automated ETL pipeline using Python and PostgreSQL.
+
+**Tech Stack:** Python • Pandas • PostgreSQL • SQL
+
+🔗 Repository: https://github.com/YashJawlikar/etl-pipeline
+
+---
+
+## 🏢 SQL Data Warehouse
+Retail Data Warehouse using dimensional modeling and analytical SQL queries.
+
+**Tech Stack:** SQL • PostgreSQL
+
+🔗 Repository: https://github.com/YashJawlikar/sql-data-warehouse
+
+---
+
+## 📊 Power BI Dashboard
+Interactive dashboards for business insights and KPI reporting.
+
+**Tech Stack:** Power BI • SQL
+
+🔗 Repository: https://github.com/YashJawlikar/powerbi-dashboard
+
+---
 - LinkedIn: (https://www.linkedin.com/in/yash-jawlikar/)
 - Email: (6yashjawlikar@gmail.com)
