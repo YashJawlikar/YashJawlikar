@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm Yash Jawlikar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+Enthusiast;Python+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+Enthusiast;Always+Learning"/>
 </p>
 
 <h3 align="center">Data Scientist | Machine Learning Engineer | MLOps Engineer</h3>
